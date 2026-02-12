@@ -1,0 +1,8 @@
+To "compile" the website:
+$ bundle
+
+To run:
+$ bundle exec jekyll serve
+
+To access: 
+http://127.0.0.1:4000/
