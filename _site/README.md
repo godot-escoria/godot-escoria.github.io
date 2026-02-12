@@ -1,2 +1,0 @@
-# Escoria Framework website
-
